@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flask Tutorial</title>
+</head>
+<body>
+    <h1>My First Try Using Flask</h1>
+    <p>Flask run</p>
+    <h2 style="color:red">Hello,{{name}}!</h2>
+    <h3 style="color:blue">{{ratio}}</h3>
+
+    <form action="{{ url_for('home')}}" method="post">
+        <label for="firstname">First Name:</label>
+        <input type="text" id="firstname" name="fname" placeholder="firstname">
+        <label for="lastname">Last Name:</label>
+        <input type="text" id="lastname" name="lname" placeholder="lastname"><br>
+        <input type="radio" id="stats" name="for_y" value="STAT">
+        <label for="stat">Statistic</label><br>
+        <input type="radio" id="si" name="for_y" value="SI">
+        <label for="sis">SI</label><br>
+        <input type="radio" id="cs" name="for_y" value="comscience">
+        <label for="comsci">Com_Science</label><br>
+        <button type="submit">Submit</button>
+    </form>
+    
+</body>
+</html>
