@@ -24,4 +24,23 @@
 
 ### เนื้อหาในคอร์สเรียน
 #### Flask เป็น Package ที่ใช้สำหรับพัฒนาเว็บแอปพลิเคชันและเรียนCookie
-Flask file : Flask.py
+* ### Flask file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/Flask.py)
+* ### Home.html file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/templates/home.html)
+  * ### csv file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/db.csv)
+* ### Test Requests [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/reqyest.py)
+* ### Subprocess : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/testsubprocess.py)
+* ### Python Argparse : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/python_script_101.py)
+* ### Cloud DB & Cloud AI [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/Cloud_DB_and_Ai.ipynb)
+## Neural Network with Tensorflow [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/tensorflow(network).ipynb)
+ การสร้าง Neural Network ด้วย Tensorflow Sequential API:
+        
+         Sequentail - สามารถสร้างได้ง่าย ไม่มีความซับซ้อน แต่ network จะวิ่งเป็นเส้นตรง
+        
+         Functional - สร้างได้ยากกว่า Sequentail  ได้ network ที่สามารถปรับแต่งเส้นทางให้มีความซับซ้อนได้
+        
+         Subclassing - สร้างได้ยาก โดยในส่วนนี้ไม่ได้เรียนในคอร์ส
+  Download and prepare the CIFAR10 dataset: 
+               
+         https://www.kaggle.com/datasets/wordroid/cifar10-object-recognition-in-images-zip-file
+
+
