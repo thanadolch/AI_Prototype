@@ -26,7 +26,7 @@
 #### Flask เป็น Package ที่ใช้สำหรับพัฒนาเว็บแอปพลิเคชันและเรียนCookie
 * ### Flask file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/Flask.py)
 * ### Home.html file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/templates/home.html)
-  * ### csv file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/db.csv)
+* ### csv file : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/db.csv)
 * ### Test Requests [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/reqyest.py)
 * ### Subprocess : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/testsubprocess.py)
 * ### Python Argparse : [[code]](https://github.com/thanadolch/AI_Prototype/blob/main/python_script_101.py)
